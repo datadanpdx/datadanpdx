@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Dan 👋
 
-<!--
-**datadanpdx/datadanpdx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Data Engineer & Systems Builder
 
-Here are some ideas to get you started:
+I design and deploy self-hosted data and automation systems with a focus on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- PostgreSQL architecture
+- Workflow automation (n8n)
+- Docker-based infrastructure
+- Cloud deployment on DigitalOcean
+- Practical DevOps for small teams
+
+---
+
+## Current Focus
+
+- Refining reusable infrastructure patterns
+- Building automation-driven service tools
+- Strengthening data engineering portfolio projects
+
+---
+
+## Tech Stack
+
+PostgreSQL | Docker | n8n | Caddy | Linux | DigitalOcean
+
+---
+
+## Featured Project
+
+🔹 [Self-Hosted Data Stack](https://github.com/YOUR-USERNAME/self-hosted-data-stack)
+
+A documented lab environment for infrastructure, automation, and deployment patterns.
